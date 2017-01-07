@@ -13,5 +13,5 @@ and [Material UI](http://material-ui.com) as the CSS framework
 2. Update CSS only in the style.styl
 3. Any changes in the code and ```.styl``` files will automatically recompile the project
 4. Update routes in the component called ```Routes``` in ```\src\components\shared\Routes.js```
-5. The component ```JSONDebugger``` can be used to display JSON data by passing the component a JSON file with the prop name ```json``.
+5. The component ```JSONDebugger``` can be used to display JSON data by passing the component a JSON file with the prop name ```json```.
 See example in ```\src\components\PageOne.js```
