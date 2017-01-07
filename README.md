@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) with Material UI as 
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and the Material UI as 
 the CSS framework
 
 ### Instructions
