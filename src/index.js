@@ -10,15 +10,7 @@ import injectTapEventPlugin from 'react-tap-event-plugin';
 injectTapEventPlugin()
 
 
-const Root = () => {
-  return (
-      <div>
-        <Routes />
-      </div>
-  )
-}
-
 ReactDOM.render(
-  <Root />,
+  <Routes />,
   document.getElementById('root')
 );
