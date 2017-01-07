@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) 
-and the [Material UI](http://material-ui.com) as the CSS framework
+and [Material UI](http://material-ui.com) as the CSS framework
 
 ### Instructions
 1. Git clone repository into your local directory
