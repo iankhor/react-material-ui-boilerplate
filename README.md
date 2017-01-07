@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) 
-and [Material UI](http://material-ui.com) as the CSS framework
+and [Material UI](http://material-ui.com) as the front end framework
 
 An example of the boilerplate can be seen [here](https://still-stream-52331.herokuapp.com/)
 
