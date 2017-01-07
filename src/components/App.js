@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../../assets/img/logo.svg'
 import '../css/style.css'
+import { Link } from 'react-router'
 
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
@@ -22,10 +23,16 @@ class App extends Component {
             <img src={logo} className="App-logo" alt="logo" />
             <h2>Welcome to React with Material UI Boilerplate</h2>
           </div>
-            <TextField
-              hintText="Type something here"
-              floatingLabelText="This is a text field from App component"
-            />
+
+          <div className="border color-blue">
+              <Link to='/PageOne'>Go to Page One</Link>
+              <br/>
+              <TextField
+                hintText="Type something here"
+                floatingLabelText="This is a text field from App component"
+                fullWidth={true}
+              />
+          </div>
 
            {/* Render children here*/}
            {this.props.children} 

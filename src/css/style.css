@@ -5,6 +5,12 @@ body {
   font-family: 'Roboto';
   background-color: #808080;
 }
+.color-blue {
+  background-color: #ffa500;
+}
+.color-purple {
+  background-color: #800080;
+}
 .generic-center {
   margin: auto;
   padding: 2rem;
