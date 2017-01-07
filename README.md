@@ -12,3 +12,4 @@ the CSS framework
 1. Update any environment variables where applicable in your local ```.env``` file
 2. Update CSS only in the style.styl
 3. Any changes in the code and ```.styl``` files will automatically recompile the project
+4. Update routes in the component called ```Routes``` in ```\src\components\shared\Routes.js```

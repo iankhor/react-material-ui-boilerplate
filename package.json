@@ -1,6 +1,6 @@
 {
   "name": "react-material-ui-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "autoprefixer-stylus": "^0.13.0",
     "concurrently": "^3.1.0",
