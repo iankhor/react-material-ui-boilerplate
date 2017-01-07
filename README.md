@@ -9,6 +9,6 @@ the CSS framework
 5. Open React App at ```localhost:9000``` 
 
 ### Notes
-1. Update any environment variables where applicable
+1. Update any environment variables where applicable in your local ```.env``` file
 2. Update CSS only in the style.styl
-3. Any changes in the code and .stylus files will automatically recompile the project
+3. Any changes in the code and ```.styl``` files will automatically recompile the project
