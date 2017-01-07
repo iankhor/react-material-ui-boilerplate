@@ -24,8 +24,11 @@ class App extends Component {
           </div>
             <TextField
               hintText="Type something here"
-              floatingLabelText="This is a text field"
-              />
+              floatingLabelText="This is a text field from App component"
+            />
+
+           {/* Render children here*/}
+           {this.props.children} 
         </div>
       </MuiThemeProvider>
     );
