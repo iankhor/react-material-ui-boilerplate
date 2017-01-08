@@ -16,4 +16,5 @@ An example of the boilerplate can be seen [here](https://still-stream-52331.hero
 3. Any changes in the code and ```.styl``` files will automatically recompile the project
 4. Update routes in the component called ```Routes``` in ```\src\components\shared\Routes.js```
 5. The component ```JSONDebugger``` can be used to display JSON data by passing the component a JSON file with the prop name ```json```.
-See example in ```\src\components\PageOne.js```
+See example in ```\src\components\PageOne.js```  
+6. Assuming heroku is all set up on your terminal, use the command ```npm run deploy:heroku``` to deploy your app to [Heroku](http://www.heroku.com) 
