@@ -26,8 +26,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "build:heroku": "heroku create -b https://github.com/mars/create-react-app-buildpack.git" ,
-    "deploy:heroku": "concurrently  \"npm run build:heroku\" \"git push heroku master\" "
     
   }
 }
