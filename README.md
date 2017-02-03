@@ -1,5 +1,6 @@
 This project was bootstrapped with   
 * [Create React App](https://github.com/facebookincubator/create-react-app) 
+* [react-router v4.0.0-alpha.6](https://github.com/ReactTraining/react-router/releases)
 * [Material UI](http://material-ui.com) as the front end framework
 
 An example of the boilerplate can be seen [here at https://react-material-ui.herokuapp.com/](https://react-material-ui.herokuapp.com/)
