@@ -16,6 +16,10 @@
     "react-router": "4.0.0-alpha.6",
     "react-tap-event-plugin": "^2.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iankhor/react-material-ui-boilerplate"
+  },
   "scripts": {
     "start": "PORT=9000 react-scripts start",
     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",
