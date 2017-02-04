@@ -6,8 +6,7 @@ import { Link } from 'react-router'
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
 //material-ui components
-import { AppBar,
-         TextField } from 'material-ui/';
+import { TextField } from 'material-ui/';
 
 //theme related material-ui
 import { MuiThemeProvider,
