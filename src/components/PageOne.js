@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import App from './App'
-import { Link } from 'react-router'
+import { Link } from 'react-router-dom'
 import JSONDebugger from '../utils/JSONDebugger'
 
 // example JSON data
@@ -19,7 +19,7 @@ class PageOne extends Component {
             <App> 
                 <br/>
                 <div className="border color-purple">
-                    <p><Link to='/'>Go to root page</Link></p>
+                    <p><Link to="/">Go to root page</Link></p>
                     <p>
                         <TextField
                             hintText="Type something here"
