@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../../assets/img/logo.svg'
 import '../css/style.css'
-import { Link } from 'react-router'
-
-import injectTapEventPlugin from 'react-tap-event-plugin';
+import { Link } from 'react-router-dom'
 
 //material-ui components
 import { TextField } from 'material-ui/';
